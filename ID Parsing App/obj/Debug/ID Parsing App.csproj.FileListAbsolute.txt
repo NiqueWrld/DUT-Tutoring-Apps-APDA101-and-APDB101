@@ -1,0 +1,10 @@
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\bin\Debug\ID Parsing App.exe.config
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\bin\Debug\ID Parsing App.exe
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\bin\Debug\ID Parsing App.pdb
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\obj\Debug\ID Parsing App.csproj.AssemblyReference.cache
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\obj\Debug\ID_Parsing_App.Form1.resources
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\obj\Debug\ID_Parsing_App.Properties.Resources.resources
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\obj\Debug\ID Parsing App.csproj.GenerateResource.cache
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\obj\Debug\ID Parsing App.csproj.CoreCompileInputs.cache
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\obj\Debug\ID Parsing App.exe
+C:\Users\Siyathokoza321\Desktop\ID Parsing App\obj\Debug\ID Parsing App.pdb

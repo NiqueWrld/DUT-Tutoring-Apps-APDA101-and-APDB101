@@ -53,4 +53,4 @@
    - After verifying that your code works as expected, save the project by selecting **File > Save All**.
 
 #### Additional Tips:
-- If you'd like to challenge yourself further, try modifying the loop to display only even numbers or numbers in reverse order.
+- If you'd like to challenge yourself further, try modifying the app to display all types of data sizes

@@ -24,7 +24,7 @@
        lstDisplay.Items.Clear(); // Clear the ListBox before adding new items
        for (int i = 1; i <= 100; i++)
        {
-           listBox1.Items.Add(i);
+           lstDisplay.Items.Add(i);
        }
    }
    ```

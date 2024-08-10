@@ -3,13 +3,14 @@
 Create a class to hold an item in a shopping list, and use this to create a shopping list
 ---
 
-- Before you can do this exercise, you'll need to download and unzip the [file above ](./NumberDisplay).
+- Before you can do this exercise, you'll need to download and unzip the [file above ](https://github.com/NiqueWrld/DUT-Tutoring-Apps-APDA101-and-APDB101/raw/main/Shopping%20List/Shopping%20List.zip)
+
 
 - If you haven't already got one, create a Windows Forms project (using Visual C#, obviously) called Shopping List. Right-click on your project in Solution Explorer to add an existing item, and choose the file Form1.cs in the above folder.
 
 - Replace the existing Form1.cs. When you run your application, you should be able to add an item to your shopping list: 
 
-![Adding shopping list items](https://www.wiseowl.co.uk/files/exercise-images/e4828/image_0001.png)
+![Adding shopping list items](./screenshot.png)
 
 The idea is that when you click on the ***Add item*** button, the item you've typed in should appear in the text box on the right.
 ---
@@ -52,4 +53,4 @@ txtList.Text += thing.Description;
 ```
 Add a few items to your list, and check that they appear in the text box!
 
-You can unzip this file to see the answers to this exercise, although please remember this is for your personal use only.
+You can unzip [file above ](https://github.com/NiqueWrld/DUT-Tutoring-Apps-APDA101-and-APDB101/raw/main/Shopping%20List/Shopping%20List.zip) to see the answers to this exercise, although please remember this is for your personal use only.

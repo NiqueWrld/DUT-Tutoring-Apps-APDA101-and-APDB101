@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyCostingSystem", "PropertyCostingSystem.csproj", "{743A60DE-423F-4861-B259-404157EFAF25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743A60DE-423F-4861-B259-404157EFAF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743A60DE-423F-4861-B259-404157EFAF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743A60DE-423F-4861-B259-404157EFAF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743A60DE-423F-4861-B259-404157EFAF25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A39469A8-96C9-4251-9282-3C1CB4FAD285}
+	EndGlobalSection
+EndGlobal
